@@ -214,3 +214,4 @@ alias laravel_dev="source /home/mclogger/Desktop/linux_vim/LaravelSetup/script.s
 alias clp="pwd | xsel --clipboard"
 alias audio-output=/home/mclogger/Desktop/linux_vim/./audio-output-selector.sh
 alias fri='cd "/home/mclogger/Desktop/FRI/1. semester" && echo "" && echo "Predmety:" && ls'
+setxkbmap sk
